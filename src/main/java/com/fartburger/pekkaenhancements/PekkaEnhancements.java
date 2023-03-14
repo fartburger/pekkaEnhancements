@@ -8,6 +8,7 @@ import org.lwjgl.glfw.GLFW;
 
 public class PekkaEnhancements implements ModInitializer {
 
+    public static boolean fBright = false;
     @Override
     public void onInitialize() {
 
